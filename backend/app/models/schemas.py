@@ -57,6 +57,8 @@ class ChatResponse(BaseModel):
     abstained: bool
     needs_human: bool
     escalation_message: str | None = None
+    next_steps: list[str] = []
+    prototype_mode: bool = False
     disclaimer: str = "Information, not legal advice."
 
 
