@@ -1,0 +1,102 @@
+[
+  {
+    "id": "india-code-ip",
+    "title": "Indian statutes and rules relevant to IP and product regulation",
+    "authority": "India Code / Government of India",
+    "jurisdiction": "India",
+    "topics": ["patents", "copyright", "designs", "regulation", "statutes", "rules"],
+    "summary": "Official statutory source lead for the Indian legal and regulatory instruments referenced by the SIH26045 problem statement.",
+    "url": "https://www.indiacode.nic.in/",
+    "version_note": "Production ingestion must store the exact instrument and effective version used for each answer."
+  },
+  {
+    "id": "ip-india",
+    "title": "IP India public databases and registries",
+    "authority": "Office of the Controller General of Patents, Designs & Trade Marks",
+    "jurisdiction": "India",
+    "topics": ["patents", "trademarks", "designs", "geographical indications", "prior art", "registry"],
+    "summary": "Official registry and search source lead for patents, trade marks, designs and GI records.",
+    "url": "https://ipindia.gov.in/",
+    "version_note": "Registry records are dynamic; retrieval date should be logged."
+  },
+  {
+    "id": "tkdl",
+    "title": "Traditional Knowledge Digital Library (TKDL)",
+    "authority": "Traditional Knowledge Digital Library",
+    "jurisdiction": "India",
+    "topics": ["traditional knowledge", "tkdl", "prior art", "classical", "misappropriation"],
+    "summary": "Traditional-knowledge and prior-art source lead highlighted in the problem statement for protecting codified Indian knowledge.",
+    "url": "https://www.tkdl.res.in/",
+    "version_note": "Access conditions and record availability must be respected."
+  },
+  {
+    "id": "nba-abs",
+    "title": "Biological diversity and Access & Benefit Sharing resources",
+    "authority": "National Biodiversity Authority",
+    "jurisdiction": "India",
+    "topics": ["abs", "biodiversity", "biological resources", "benefit sharing", "nba"],
+    "summary": "Official source lead for biodiversity and Access & Benefit Sharing questions referenced by SIH26045.",
+    "url": "https://nbaindia.org/",
+    "version_note": "Use the applicable current Act, rules, notifications and records; preserve version metadata."
+  },
+  {
+    "id": "ayush-product-regulation",
+    "title": "Ayurvedic product classification and drug-regulatory sources",
+    "authority": "Government of India / AYUSH regulatory framework",
+    "jurisdiction": "India",
+    "topics": ["regulation", "classification", "classical", "proprietary", "new drug", "phytopharmaceutical"],
+    "summary": "Source family for determining whether a product is classical/generic, proprietary, new/non-classical, phytopharmaceutical or another regulated category.",
+    "url": null,
+    "version_note": "Production corpus should ingest the exact official instruments and pharmacopoeial standards used."
+  },
+  {
+    "id": "fssai-ayurveda-aahar",
+    "title": "Ayurveda-Aahar / food regulatory sources",
+    "authority": "Food Safety and Standards Authority of India",
+    "jurisdiction": "India",
+    "topics": ["food", "ayurveda-aahar", "nutraceutical", "label", "market access"],
+    "summary": "Official source family for Ayurveda-Aahar and related food-route questions identified in the problem statement.",
+    "url": null,
+    "version_note": "Store the exact regulation and amendment version used for an answer."
+  },
+  {
+    "id": "international-trips",
+    "title": "TRIPS framework",
+    "authority": "International treaty framework",
+    "jurisdiction": "International",
+    "topics": ["trips", "patents", "trademarks", "international ip", "market access"],
+    "summary": "International IP framework referenced by SIH26045. Keep its guidance separate from Indian national requirements.",
+    "url": null,
+    "version_note": "Cite the exact treaty provision in production responses."
+  },
+  {
+    "id": "international-cbd-nagoya",
+    "title": "Convention on Biological Diversity and Nagoya Protocol",
+    "authority": "International biodiversity framework",
+    "jurisdiction": "International",
+    "topics": ["biodiversity", "abs", "nagoya", "genetic resources", "traditional knowledge"],
+    "summary": "International biodiversity and ABS framework referenced in the problem statement.",
+    "url": null,
+    "version_note": "Country implementation must not be conflated with treaty-level guidance."
+  },
+  {
+    "id": "wipo-gratk",
+    "title": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)",
+    "authority": "WIPO treaty framework",
+    "jurisdiction": "International",
+    "topics": ["wipo", "genetic resources", "traditional knowledge", "patents", "disclosure"],
+    "summary": "International treaty source referenced by SIH26045 for genetic resources and associated traditional knowledge.",
+    "url": null,
+    "version_note": "Use the official treaty text and current status when the production corpus is populated."
+  },
+  {
+    "id": "wipo-filing-systems",
+    "title": "PCT, Madrid, Hague and Budapest systems",
+    "authority": "International filing and treaty systems",
+    "jurisdiction": "International",
+    "topics": ["pct", "madrid", "hague", "budapest", "patents", "trademarks", "designs", "micro-organism deposits"],
+    "summary": "International filing-system source family explicitly listed in the SIH26045 problem statement.",
+    "url": null,
+    "version_note": "Production answers must cite the relevant official system rule or record."
+  }
+]
